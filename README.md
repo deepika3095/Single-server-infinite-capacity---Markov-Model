@@ -33,4 +33,5 @@ Register Number : 212223230038
 ![image](https://github.com/deepika3095/Single-server-infinite-capacity---Markov-Model/assets/151625159/2df65b48-bcfa-4bb9-bbf0-645e6c29bfad)
 
 ## Result :
+The average number of material in the system and in the canveyor and waiting time are successfully found.
 
